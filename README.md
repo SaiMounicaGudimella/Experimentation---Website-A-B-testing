@@ -8,8 +8,8 @@ Let’s imagine you work on the product team at a medium-sized online e-commerce
 Before rolling out the change, the team would be more comfortable testing it on a small number of users to see how it performs, so you suggest running an A/B test on a subset of your user base users.
 
 ## Steps
-Designing our experiment
-Collecting and preparing the data
-Visualising the results
-Testing the hypothesis
-Drawing conclusions
+1. Designing our experiment
+2. Collecting and preparing the data
+3. Visualising the results
+4. Testing the hypothesis
+5. Drawing conclusions
